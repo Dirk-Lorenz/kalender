@@ -1,6 +1,9 @@
 body {
     margin: 0;
     padding: 0;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/023/802/287/non_2x/beautiful-hello-winter-background-illustration-ai-generative-free-photo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 .kalender {
@@ -12,7 +15,7 @@ body {
 
 
 .frame {
-    height: 120px;
+    height: 140px;
 
     display: flex;
     justify-content: center;
@@ -21,7 +24,7 @@ body {
 
 h1 {
     margin: 0;
-    font-size: 80px;
+    font-size: 90px;
     font-family: sans-serif;
 }
 
